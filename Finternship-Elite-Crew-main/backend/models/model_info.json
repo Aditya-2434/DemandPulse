@@ -1,7 +1,0 @@
-{
-  "model_type": "lgbm",
-  "trained_at": "2026-06-24T23:58:59.791829",
-  "mae": 2.958,
-  "n_items": 223,
-  "training_rows": 2500
-}
