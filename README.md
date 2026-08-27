@@ -16,15 +16,6 @@ Hotel Aditya Grand, a high-volume restaurant in Kandukur, was losing **₹4,000�
 
 ---
 
-## 🚀 Live Demo
-
-| Resource | Link |
-|---|---|
-| 🌐 Web App | https://harsha-mandala.github.io/Finternship-Elite-Crew/ |
-| ⚙️ API Docs | https://finternship-elite-crew.onrender.com/docs |
-| 📦 GitHub Repo | https://github.com/Harsha-mandala/Finternship-Elite-Crew |
-
----
 
 ## ✨ Key Features
 
