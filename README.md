@@ -196,12 +196,6 @@ When a model hits its rate limit (HTTP 429), the system automatically falls back
 
 ---
 
-## 👥 Team
-
-**Finternship Elite Crew** — Built during the OkCredit Finternship Program, 2026
-
----
-
 ## 📄 License
 
 MIT License
